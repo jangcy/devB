@@ -1,2 +1,4 @@
 fileG
 Change performed in repo devA
+e.	Testing approach 2
+ii.	GIT 2 changes on B,G - commit 22 
