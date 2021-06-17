@@ -1,3 +1,4 @@
 fileB
 e.	Testing approach 2
 ii.	GIT 2 changes on B,G - commit 22 
+ii.	GIT 2 changes on A,B - commit 23 - this change was added on repo dev B

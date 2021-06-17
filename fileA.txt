@@ -1,1 +1,2 @@
 fileA
+ii.	GIT 2 changes on A,B - commit 23 - this change was added on repo dev B
